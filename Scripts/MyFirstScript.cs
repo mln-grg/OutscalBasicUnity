@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MyFirstScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // Start is called before the first frame updatedsadadadaferewrec
     private void Awake()
     {
         Debug.Log("My First Script Awake function");
